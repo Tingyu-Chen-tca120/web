@@ -1,0 +1,63 @@
+
+* {
+    margin: 0;
+}
+.background {
+    position: fixed;
+    height:100%;
+    width: 100%;
+    background-color: red;
+    /* padding: 0 20px 0 20px; */
+}
+
+
+.container {
+    position: relative;
+    width: 90%;
+    background-color:brown;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.content {
+    position: relative;
+    background-color: white;
+}
+
+.dashboard {
+    background-color: lavender;
+    padding: 20px 15px 20px 15px;
+}
+
+.description {
+    height: 50px;
+    padding-top: 20px;
+    /* background-color: lightblue; */
+}
+
+.bottom {
+    height: 20px;
+    /* float: right; */
+    text-align: right;
+}
+
+.button-area {
+    height: 40px;
+    padding-top: 20px;
+}
+
+h2 {
+    height: 40px;
+    padding-top: 20px;
+}
+
+h3 {
+    color: darkred;
+}
+
+
+.bot-btn {
+    background-color: red;
+    color: white;
+    height: 30px;
+}
